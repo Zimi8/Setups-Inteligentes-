@@ -1,0 +1,73 @@
+.headerSetup{
+    background: rgb(219, 211, 255);
+    background-size: cover;
+    overflow: hidden;
+    background-image:url("C:\Users\ezequ\OneDrive\Documentos\Coder\Desafio Enero dos web\assets\water.jpeg")
+}
+
+.bodyBack{
+    background-color: rgb(0, 153, 153);
+}
+
+.botonContacto{
+    text-decoration: cornsilk;
+    background-color: cyan;
+    border-radius: 2px;
+    text-align: center;
+}
+/* Contacto */
+.subLema{
+    background-color: rgb(1, 104, 104);
+    border-radius: 2px;
+    text-decoration: aliceblue;
+}
+
+.linK{
+    text-decoration: cornsilk;
+    background-color: cyan;
+    border-radius: 2px;
+    text-align: center;
+}
+.bodyCont{
+    background-color: rgb(252, 252, 252);
+}
+.formContacto{
+    background-color: aliceblue;
+}
+
+/*
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,900);
+
+*, *:before, *:after{
+  box-sizing: border-box;
+  font: 300 1em/1.5 'Merriweather', serif; color: #242424;
+  padding: 0; margin: 0;
+} */
+
+.footer{background: rgb(236, 240, 241);}
+
+.contentFooterSetup{
+  width: 850px; 
+  margin: auto;
+  margin-bottom: 350px; /* Same height as footer */
+  padding: 100px 0;
+}
+.footerSetH1{
+    color: #111;
+    font-size: 3em;
+    font-weight: 900;
+    padding: 0 0 20px 0;
+  }
+  .footerSetH2{
+    color: #111;
+    font-size: 2em;
+    font-weight: 900;
+    padding: 0 0 15px 0;
+  }
+  .pFooterSetup{
+    font-size: 1.25em;
+    padding: 0 0 40px 0;
+  }
+
+
+ 
